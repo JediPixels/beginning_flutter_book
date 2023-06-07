@@ -54,3 +54,8 @@ Features helpful examples, as well as resourceful ways to handle common problems
 
 Wrox Professional guides are planned and written by working programmers to meet the real-world needs of programmers, developers, and IT professionals. Focused and relevant, they address the issues technology professionals face every day. They provide examples, practical solutions, and expert education in new technologies, all designed to help programmers do a better job.
 
+Amazon: https://www.amazon.com/Beginning-Flutter-Hands-Guide-Development/dp/1119550823
+
+Blog: https://JediPixels.dev
+YouTube: https://youtube.com/@JediPixels
+Medium: https://medium.com/@JediPixels
